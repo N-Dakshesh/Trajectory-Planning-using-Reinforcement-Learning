@@ -1,7 +1,5 @@
 # Trajectory Optimization using Reinforcement Learning
-Note: USE LAPTOP BRANCH ONLY. LOOK INSIDE FINAL FOLDER. 
-The 'FINAL' folder should be your directory when running code.
-Read presentation inside 'FINAL', called trajectory planning dak.
+Read presentation.
 
 With help from https://medium.com/deeplearningmadeeasy/advantage-actor-critic-continuous-case-implementation-f55ce5da6b4c for A2C implementation. Recommend learn about reinforcement learning, A2C, laplace transforms, convolution, pytorch, neural networks, RNN's, entropy in neural networks.
 
