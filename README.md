@@ -5,16 +5,15 @@ With help from https://medium.com/deeplearningmadeeasy/advantage-actor-critic-co
 
 
 ## Required Modules
-numpy
-scipy
-matplotlib
-gymnasium
-tqdm
-sympy
-optuna
+numpy,
+scipy,
+matplotlib,
+gymnasium,
+tqdm,
+sympy,
+optuna,
 pytorch - cpu or cuda, look up instructions on pytorch website on how to install.
 
-If using server, make sure packages are up to date. If unable to install packages due to lack of admin permissions on server, use pip --user install 'package_name'.
 
 ## How to use
 Look at presentation. 
